@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">colapsinToolbar</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+        Donec odio. Quisque volutpat mattis eros.
+        Nullam malesuada erat ut turpis. Suspendisse urna nibh,
+        viverra non, semper suscipit, posuere a, pede</string>
+
+    <string name="siple_text">Simple text</string>
+    <string name="simple_date">Simple Date</string>
+
+    <string name="todo">TODO</string>
+</resources>
